@@ -1,0 +1,24 @@
+Barcode::RM4SCC
+===============
+
+INSTALLATION
+
+To install this module type the following:
+
+   perl Makefile.PL
+   make
+   make test
+   make install
+
+DEPENDENCIES
+
+If you want this module to plot barcodes you need the GD libary. If
+you don't have GD you can still use the rest of the module.
+
+COPYRIGHT AND LICENCE
+
+Copyright (C) 2004 P Kent
+
+This library is free software; you can redistribute it and/or modify
+it under the same terms as Perl itself. 
+

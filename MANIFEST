@@ -1,0 +1,7 @@
+Makefile.PL
+MANIFEST
+README
+lib/Barcode/RM4SCC.pm
+t/1.t
+examples/W1A1AA6Y.gif
+META.yml                                 Module meta-data (added by MakeMaker)
